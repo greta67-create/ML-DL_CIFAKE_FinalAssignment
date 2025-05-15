@@ -7,4 +7,5 @@ The code contains the data loading (via kaggle API), preprocessing steps, and im
 Explanations are provided, with a particular focus on CNNs and defense mechanisms.
 
 **Link to Dataset**: **https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images**
+
 _Please note: Loading the entire code requires significant computational power and RAM. It is recommend to use additional GPU for running._
